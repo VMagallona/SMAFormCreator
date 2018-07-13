@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SMAFormCreator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CSCTemplateLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F:\SMA Admin\08_Clients\_SMA Forms\Final Design Forms\02. CSC - Community-Style Clinic Form</Value>
+    </Setting>
+    <Setting Name="CSCTemplateName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CSC_Template_v1.0.xlsx</Value>
+    </Setting>
+    <Setting Name="ClientFormsFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F:\SMA Admin\08_Clients\_SMA Forms\Client Forms</Value>
+    </Setting>
+    <Setting Name="CDFTemplateLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F:\SMA Admin\08_Clients\_SMA Forms\Final Design Forms\01. CDF - Consent &amp; Declaration Form</Value>
+    </Setting>
+    <Setting Name="CDFTemplateName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CDF_Template_v1.1.xlsx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
